@@ -1,1 +1,20 @@
 В получившейся ветке main, в отличие от ветки demo из онлайн-репозитория, присутствует упоминание о пуговицах в README
+
+В удалённом репозитории я вижу 11 коммитов (и коммит этого текста станет 12-м):
+
+В порядке убывания новизны:
+
+Commits on Feb 1, 2021
+added hometask.txt                                                  6b340ef
+Merge branch 'boots_buttons'                                        961b4cf
+Merge remote-tracking branch 'origin/hat'                           f699a93
+Merge remote-tracking branch 'origin/buttons' into boots_buttons    b03ca04
+Merge remote-tracking branch 'origin/boots' into boots_buttons      0647a8a
+
+Commits on Jun 29, 2016
+fix readme                                                          df455a7
+dots                                                                1db7b7a
+README added                                                        079fa1b
+boots                                                               152f859
+heat added                                                          949c4a1
+init                                                                7d5cd9d
